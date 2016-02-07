@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone makes a copy of an existing repositry. It makes a full copy off all the data, inlcuding previous versions of every file.
